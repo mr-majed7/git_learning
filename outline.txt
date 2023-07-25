@@ -1,6 +1,7 @@
 chapter 1 
 chapter 2
 chapter 3
-asha 
-kasha
-pasha
+Asha 
+Kasha
+Pasha
+Lasha
